@@ -1,9 +1,0 @@
---- _test/outputs/test37.out	2022-03-15 22:07:11.588022300 +0200
-+++ _test/outputs/test37.ref	2022-03-15 22:07:11.553015100 +0200
-@@ -0,0 +1,6 @@
-+int var;
-+int main()
-+{
-+ printf("var = %d\n", var);
-+ return 0;
-+}
